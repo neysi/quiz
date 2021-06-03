@@ -1,0 +1,14 @@
+
+body{
+  margin: 0px;
+  background: black;
+  padding: 100px;
+ 
+}
+.timer {
+  text-align: center;
+  color: greenyellow;
+  text-shadow: 3px 1px #d22d65;
+  font-size: 50px;
+  font-family: monospace;
+}
